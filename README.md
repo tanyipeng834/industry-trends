@@ -7,7 +7,10 @@
 
 ## Area of focus
 ```
-The number of female students enrolled in IT courses in have always been much lower than their male counterparts.Hence, with the booming IT industry, we want to find out if there is an increase in the enrolment in IT courses in the educational insituitons. Also , if an increase in IT graduate mean an increase in the recruitment rate or those students went to join an industry unrelated to their studies
+The number of female students enrolled in IT courses in have always been much lower than their male counterparts.Hence, with the booming IT industry, 
+we want to find out if there is an increase in the enrolment in IT courses in the educational insituitons. 
+Also , if an increase in IT graduate mean an increase in the recruitment rate 
+or those students went to join an industry unrelated to their studies
 ```
 # Datasets
 
