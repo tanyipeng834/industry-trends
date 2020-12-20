@@ -8,7 +8,7 @@
 ## Area of focus
 ```
 The number of female students enrolled in IT courses in have always been much
-lower than their male counterparts.Hence, with the booming , IT industry, we
+lower than their male counterparts.Hence, with the booming IT industry, we
 want to find out if there is an increase in the enrolemnt in IT courses in the educational
 insituitons.
 ```
