@@ -1,4 +1,4 @@
-# industry-trends
+# Industry-trends
 
 ## Research Topic
 1. Test if an increase in the number of graduates correlate to an increase in enrolment in the industry
