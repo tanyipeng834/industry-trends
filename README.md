@@ -12,3 +12,9 @@ lower than their male counterparts.Hence, with the booming IT industry, we
 want to find out if there is an increase in the enrolment in IT courses in the educational
 insituitons.
 ```
+# Datasets
+
+- [Polytechnics - Intake, Enrolment and Graduates by Course](https://data.gov.sg/dataset/polytechnics-intake-enrolment-and-graduates-by-course)
+- [Universities - Intake, Enrolment and Graduates by Course](https://data.gov.sg/dataset/universities-intake-enrolment-and-graduates-by-course)
+- [Employment Change By Industry, Annual (December to December)](https://data.gov.sg/dataset/employment-change-by-industry-annual)
+
